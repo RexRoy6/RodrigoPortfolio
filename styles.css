@@ -2,3 +2,8 @@
 h1 {
     color:blue ;
 }
+
+img {
+    width: 23px ;
+    height: auto;
+}
