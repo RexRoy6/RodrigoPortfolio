@@ -1,9 +1,43 @@
 
-h1 {
-    color:blue ;
+h2 {
+    width: 50%  ;
+    border:  3px ;
+    padding: 5px ;
+    margin: auto;
+
 }
 
-img {
+#emojiMano {
     width: 23px ;
     height: auto;
 }
+
+h1 {
+    color:blue ;
+    width: 50% ;
+    border: 3px;
+    padding: 5px ;
+    margin: auto;
+}
+
+h3 {
+    width: 50% ;
+    border: 3px;
+    padding: 5px ;
+    margin: auto;
+}
+
+h4 {
+    width: 50% ;
+    border: 3px;
+    padding: 5px ;
+    margin: auto;
+}
+
+div {
+    width: 50% ;
+    border: 3px;
+    padding: 5px ;
+    margin: auto;
+}
+
