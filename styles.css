@@ -1,7 +1,7 @@
 
 h2 {
     font-size: 75px;
-    width: 50%  ;
+    width: 70%  ;
     border:  3px ;
     padding: 5px ;
     margin: auto;
@@ -16,7 +16,7 @@ h2 {
 h1 {
     font-size: 85px ;
     color:blue ;
-    width: 50% ;
+    width: 70% ;
     border: 3px;
     padding: 5px ;
     margin: auto;
@@ -24,7 +24,7 @@ h1 {
 
 h3 {
     font-size:65px ;
-    width: 50% ;
+    width: 70% ;
     border: 3px;
     padding: 5px ;
     margin: auto;
@@ -32,7 +32,7 @@ h3 {
 
 h4 {
     font-size:60px;
-    width: 50% ;
+    width: 70% ;
     border: 3px;
     padding: 5px ;
     margin: auto;
@@ -40,7 +40,7 @@ h4 {
 
 div {
     font-size:60px ;
-    width: 50% ;
+    width: 70% ;
     border: 3px;
     padding: 5px ;
     margin: auto;
